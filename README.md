@@ -14,7 +14,7 @@ You will discover
 ## Credits
 
 This exploratory project is based on the learnings from this [Udemy Course](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface)
-Building a RAG Q&A Chatbot Using LangChain https://substack.com/home/post/p-160312638
+and the substack article "Building a RAG Q&A Chatbot Using LangChain" https://substack.com/home/post/p-160312638
 
 
 ## Pre requisites
